@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - name: 顯示問候
-        run: |
-          echo "Hello, GitHub Actions!"
+      run: echo "Hello, GitHub Actions!"
+
 
